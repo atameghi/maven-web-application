@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.19.66.125:8081/repository/google-app-release/</url>
+	      <url>http://18.188.7.85:8081/repository/google-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
